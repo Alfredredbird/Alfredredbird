@@ -5,6 +5,7 @@
 - 📫 How to reach me: Dm me on discord: Alfredredbird
 - 🦜 I love Birds.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfredredbird&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alfred's GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alfredredbird&theme=dark)](https://git.io/streak-stats)
 <!---
 Alfredredbird/Alfredredbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
