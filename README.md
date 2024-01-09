@@ -1,3 +1,4 @@
+![1-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/141cc34a-77b5-438a-992d-062b4f06fb90)
 - 👋 Hi, I’m @Alfredredbird
 - 👀 I’m interested in OSINT and parrots.
 - 🌱 I’m currently working on my repo called Alfreed.
@@ -13,3 +14,4 @@
 Alfredredbird/Alfredredbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![2-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/a71c4456-57d3-4cc6-bf64-d265674fb249)
