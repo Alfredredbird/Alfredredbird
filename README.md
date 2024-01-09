@@ -14,4 +14,5 @@
 Alfredredbird/Alfredredbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![2-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/a71c4456-57d3-4cc6-bf64-d265674fb249)
+
+![2-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/502d86f2-e4a7-4c79-a9bc-7785b4aac4bc)
