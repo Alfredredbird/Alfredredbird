@@ -1,4 +1,4 @@
-![1-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/141cc34a-77b5-438a-992d-062b4f06fb90)
+![1-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/c6027625-e355-4e3c-9752-539f65590fae)
 - 👋 Hi, I’m @Alfredredbird
 - 👀 I’m interested in OSINT and parrots.
 - 🌱 I’m currently working on my repo called Alfreed.
@@ -15,4 +15,5 @@ Alfredredbird/Alfredredbird is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![2-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/502d86f2-e4a7-4c79-a9bc-7785b4aac4bc)
+
+![2-removebg-preview](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/11ef1a3d-d003-458a-8cc6-ffa1cc33e076)
