@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Alfredredbird
+
+![github-header-image](https://github.com/Alfredredbird/Alfredredbird/assets/105014217/7a9a9862-16d7-45f6-a816-88a35c3dfb69)
 
 - 👀 I'm interested in OSINT and parrots.
 - 🌱 I'm currently working on my repository called [Alfred](https://github.com/Alfredredbird/Alfred).
