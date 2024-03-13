@@ -4,7 +4,7 @@
 - 👀 I'm interested in OSINT and parrots.
 - 🌱 I'm currently working on my repository called [Alfred](https://github.com/Alfredredbird/Alfred).
 - 💞️ I'm looking to collaborate on my repository's.
-- 📫 How to reach me: DM me on Discord: Alfredredbird
+- 📫 How to reach me: DM me on Discord: Alfredredbird2
 - 🦜 I love Parrots.
 
 ---
