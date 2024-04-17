@@ -6,6 +6,7 @@
 - 💞️ I'm looking to collaborate on my repository's.
 - 📫 How to reach me: DM me on Discord: Alfredredbird2
 - 🦜 I love Parrots.
+- 🌟 Im looking for internships
 
 ---
 
